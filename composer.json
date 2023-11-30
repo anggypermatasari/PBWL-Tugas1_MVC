@@ -1,0 +1,19 @@
+{
+    "name": "suendri-uinsu/pbwl-project10",
+    "description": "Praktikum Materi MVC Pemrograman Berbasis Web Lanjutan ",
+    "type": "project",
+    "authors": [
+        {
+            "name": "didi0511",
+            "email": "didididaputri05@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
